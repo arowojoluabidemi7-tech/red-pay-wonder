@@ -19,8 +19,8 @@ const PaymentInstructions = () => {
   const [showFailure, setShowFailure] = useState(false);
 
   const amount = "6,700";
-  const accountNumber = "8921620819";
-  const bankName = "PALMPAY";
+  const accountNumber = "3480174557";
+  const bankName = "Carbon microfinace bank";
   const accountName = "AROWOJOLU ABIDEMI";
   const referenceId = `REF${Date.now()}`;
 

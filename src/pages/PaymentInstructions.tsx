@@ -19,8 +19,8 @@ const PaymentInstructions = () => {
   const [showFailure, setShowFailure] = useState(false);
 
   const amount = "6,700";
-  const accountNumber = "6805281706";
-  const bankName = "fairmoney microfinace";
+  const accountNumber = "1003121032";
+  const bankName = "Sparkle";
   const accountName = "AROWOJOLU ABIDEMI";
   const referenceId = `REF${Date.now()}`;
 
